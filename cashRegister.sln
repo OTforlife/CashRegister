@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashRegister", "cashRegister\cashRegister.csproj", "{842F2E29-00BB-4951-848F-E11FC60F1D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842F2E29-00BB-4951-848F-E11FC60F1D41}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{842F2E29-00BB-4951-848F-E11FC60F1D41}.Debug|anycpu.Build.0 = Debug|anycpu
+		{842F2E29-00BB-4951-848F-E11FC60F1D41}.Release|anycpu.ActiveCfg = Release|anycpu
+		{842F2E29-00BB-4951-848F-E11FC60F1D41}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

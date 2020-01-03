@@ -1,0 +1,11 @@
+/Users/nathanbecinski/Projects/cashRegister/cashRegister/bin/Debug/cashRegister.exe
+/Users/nathanbecinski/Projects/cashRegister/cashRegister/bin/Debug/cashRegister.pdb
+/Users/nathanbecinski/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.csprojAssemblyReference.cache
+/Users/nathanbecinski/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.csproj.CoreCompileInputs.cache
+/Users/nathanbecinski/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.exe
+/Users/nathanbecinski/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.pdb
+/Users/nathanbecinski/Desktop/Projects/cashRegister/cashRegister/bin/Debug/cashRegister.exe
+/Users/nathanbecinski/Desktop/Projects/cashRegister/cashRegister/bin/Debug/cashRegister.pdb
+/Users/nathanbecinski/Desktop/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.csprojAssemblyReference.cache
+/Users/nathanbecinski/Desktop/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.exe
+/Users/nathanbecinski/Desktop/Projects/cashRegister/cashRegister/obj/Debug/cashRegister.pdb
